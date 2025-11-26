@@ -3,7 +3,7 @@
 ## Project Structure
 
 ```
-exercise3_part2/
+Specification-Guided-Test-Improvement/
 ├── problems/
 │   ├── __init__.py
 │   ├── is_prime.py              # HumanEval/31 implementation (DeepSeek-6.7B + CoT)
